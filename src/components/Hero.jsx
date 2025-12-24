@@ -22,7 +22,7 @@ const Hero = () => {
       <p
         data-aos="fade-up"
         data-aos-delay="400"
-        className="max-w-2xl text-gray-300 text-base md:text-lg leading-relaxed"
+        className="mb-6 max-w-2xl text-gray-300 text-base md:text-lg leading-relaxed"
       >
         A US-based multinational IT company specializing in digital products and
         services, operating across the UAE and India.
